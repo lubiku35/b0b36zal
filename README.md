@@ -8,8 +8,8 @@ The course aims to familiarize students with the principles of algorithms and be
 
 ### 01_intro | Introduction
 
-- [file.txt](01_intro\file.txt)
+- [file.txt](https://github.com/lubiku35/b0b36zal/blob/main/01_intro/file.txt)
 
 ### 02_python | Python In Action
 
-- [linewriter.py](02_python\linewriter.py)
+- [linewriter.py](https://github.com/lubiku35/b0b36zal/blob/main/02_python/linewriter.py)
