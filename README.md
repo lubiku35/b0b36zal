@@ -13,3 +13,7 @@ The course aims to familiarize students with the principles of algorithms and be
 ### 02_python | Python In Action
 
 - [linewriter.py](https://github.com/lubiku35/b0b36zal/blob/main/02_python/linewriter.py)
+
+### 02_python | Python In Action
+
+- [calculator.py](https://github.com/lubiku35/b0b36zal/blob/main/03_python/calculator.py)
