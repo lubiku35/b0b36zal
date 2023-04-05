@@ -16,4 +16,4 @@ The course aims to familiarize students with the principles of algorithms and be
 
 ### 02_python | Python In Action
 
-- [calculator.py](https://github.com/lubiku35/b0b36zal/blob/main/03_python/calculator.py)
+- [calculator.py](https://github.com/lubiku35/b0b36zal/blob/main/03_calc/calculator.py)
