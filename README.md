@@ -17,3 +17,11 @@ The course aims to familiarize students with the principles of algorithms and be
 ### 03_calculator | Calculator
 
 - [calculator.py](https://github.com/lubiku35/b0b36zal/blob/main/03_calc/calculator.py)
+
+### 04_pi | Pi
+
+- [pi.py](https://github.com/lubiku35/b0b36zal/blob/main/04_pi/pi.py)
+
+### 05_poly | Polynomials
+
+- [polynom.py](https://github.com/lubiku35/b0b36zal/blob/main/05_poly/polynom.py)
