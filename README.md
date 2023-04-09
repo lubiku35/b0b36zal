@@ -25,3 +25,7 @@ The course aims to familiarize students with the principles of algorithms and be
 ### 05_poly | Polynomials
 
 - [polynom.py](https://github.com/lubiku35/b0b36zal/blob/main/05_poly/polynom.py)
+
+### 05_poly | Polynomials
+
+- [sort.py](https://github.com/lubiku35/b0b36zal/blob/main/06_sorting/sort.py)
