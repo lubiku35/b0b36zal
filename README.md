@@ -29,3 +29,7 @@ The course aims to familiarize students with the principles of algorithms and be
 ### 06_sorting | Data Sorting
 
 - [sort.py](https://github.com/lubiku35/b0b36zal/blob/main/06_sorting/sort.py)
+
+### 06_carDB | Showroom
+
+- [sort.py](https://github.com/lubiku35/b0b36zal/blob/main/07_carDB/showroom.py)
