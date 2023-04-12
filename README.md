@@ -33,3 +33,7 @@ The course aims to familiarize students with the principles of algorithms and be
 ### 07_carDB | Showroom
 
 - [showroom.py](https://github.com/lubiku35/b0b36zal/blob/main/07_carDB/showroom.py)
+
+### 08_bst | Binary Search Tree
+
+- [bst.py](https://github.com/lubiku35/b0b36zal/blob/main/08_bst/bst.py)
